@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Stylized V shape with sword handles -->
+  <path d="M60,40 L100,140 L140,40" stroke="#3498db" stroke-width="8" fill="none" />
+  
+  <!-- Sword handles -->
+  <circle cx="100" cy="140" r="10" fill="#3498db" />
+  <rect x="90" y="140" width="20" height="5" fill="#3498db" />
+  
+  <!-- Foundation text -->
+  <text x="100" y="180" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">
+    JACQUES FRESCO FOUNDATION
+  </text>
+</svg>
